@@ -7,7 +7,7 @@ import Grow from './images/grow.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useNavigate } from 'react-router-dom';
 
-const registerurl = ' http://127.0.0.1:8000/webform/register';
+const registerurl = 'https://wep-backend.onrender.com/webform/register';
 
 
 function Register() {
