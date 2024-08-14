@@ -120,7 +120,7 @@ function BussinessInfo() {
                             Year of Business Establishment
                         </label>
                         <input
-                            type="text"
+                            type="number"
                             className="form-control"
                             id="year_of_establishment"
                             name='year_of_establishment'
